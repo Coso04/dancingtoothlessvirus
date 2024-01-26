@@ -15,7 +15,7 @@ When you start the virus goes immediately to "C:\Windows\System32" and it rename
 If you're reading this it means that you accidentally destroyed your PC, don't worry! the fix is very simple.
 First of all you need to boot a USB drive on your PC with a Windows installation or a linux live CD
 Then you need to go to the drive with windows installed (use "Repair your computer if you're using a windows installation and choose "Command prompt" or use the file explorer if you're using a live CD) (specifically into Windows\System32)
-And finally rename the file "toothless.exe" back into "winlogon.exe" and restart ythe PC
-And you're done! windows can boot back into the desktop and you didn't needed to reinstall the OS
+And finally rename the file "toothless.exe" back into "winlogon.exe" and restart the PC
+and... you're done! windows can boot back into the desktop and you didn't needed to reinstall the OS
 
 # I WILL NOT BE RESPONSIBLE TO DAMAGES TO THE PC!
